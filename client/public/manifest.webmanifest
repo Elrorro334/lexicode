@@ -1,0 +1,18 @@
+{
+  "name": "LexiCode — Inglés Técnico para Ingenieros de Software",
+  "short_name": "LexiCode",
+  "description": "Plataforma educativa progresiva (PWA) para dominar inglés técnico B1-B2 en entrevistas, Scrum y Code Reviews.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e1e1e",
+  "theme_color": "#1e1e1e",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
